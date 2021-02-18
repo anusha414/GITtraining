@@ -1,3 +1,7 @@
 welcome to merge 3
 
+
 hello merge3
+
+hello merge 3 from merge 2
+
